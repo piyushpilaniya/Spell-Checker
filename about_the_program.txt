@@ -1,0 +1,13 @@
+My code will check for all the words in the given input file
+I have created a test filed named a.txt.
+
+
+First of all to run you need too follow the step given below:
+javac read.java
+java read dictionaries.zip a.txt
+
+
+Procedure:
+First of all I have unziped the given dictinaries.zip and found out the data stored in each of the .txt file and then in the main function I will open the given input text file then I will check for each word in the dictionary.
+
+You can give the zipped file of your own dictionary
